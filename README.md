@@ -14,7 +14,7 @@ trends and pollution patterns using interactive visualizations.
 
 You can view the interactive dashboard here:
 
-[View Dashboard]()
+[View Dashboard](Delhi_Weather_and_Air_Quality_Analysis_2025.pbit)
 
 ---
 
