@@ -79,7 +79,7 @@ Government agencies can use the data for environmental policies.
 
 ## Screenshots / Demo
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/roshanababu18-coder/Delhi-Weather-Analysis-2025-Dashboard/blob/main/Screenshot%202026-03-13%20202015.png)
 
 ---
 
